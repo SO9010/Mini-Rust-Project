@@ -1,6 +1,4 @@
-# Small projects to learn C++ and Rust.
-
-List from http://www.cplusplus.com/forum/beginner/3473/
+# Small projects to learn Rust.
 
 ## Beginner
 
